@@ -1,8 +1,8 @@
 {
-  "versionCode": 20,
-  "versionName": "1.1.10",
+  "versionCode": 21,
+  "versionName": "1.1.11",
   "apkUrl": "https://github.com/salmanbashir80/sosai-releases/releases/latest/download/SalmanOS.apk",
-  "sha256": "409ed017bc208fc7edf9b1b977e96badc9e18d307fb9bb45a3168ac0ab2b0e3d",
-  "releaseNotes": "Automated production build from commit 3b0d199",
-  "buildDate": "2026-09-27T11:34:30Z"
+  "sha256": "7b0c869f823130166471c4eb382742c64fbe1179aea59b32291b77442a46e4bd",
+  "releaseNotes": "Automated production build from commit 57ab240",
+  "buildDate": "2026-09-27T11:37:30Z"
 }
